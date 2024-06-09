@@ -1,0 +1,20 @@
+.board-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.board {
+  flex: 1;
+}
+
+.move-history {
+  width: 300px;
+  margin-left: 50px;
+}
+
+.current-player {
+  text-align: center;
+  margin-top: 0px;
+}
+
